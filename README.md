@@ -1,4 +1,3 @@
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Anand</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | 💻 Python, SQL, Machine Learning, Power BI, Excel | 🎓 DataTrained Graduate</h3>
@@ -44,6 +43,13 @@
 
 ---
 
+ - 💬 **Social Media Sentiment Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_01)
+
+- 🧾 **Customer Support Data Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_02)
+
+- 🚧 **Road Accident Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_03)
+
+
 ## 📂 Projects
 
 ### 📊 Data Analysis & Machine Learning
@@ -60,7 +66,8 @@
 - 📌 **Insurance Claim Fraud Detection** – Binary classification & fraud insights  
 - 📌 **Temperature Forecasting** – Time series prediction using ML  
 - 📌 **Loan Application Status Prediction** – Classification using structured data  
-- 📌 **Sentiment Analysis on Social Media** – NLP with VADER  
+- 📌 **Sentiment Analysis on Social Media** – NLP with VADER
+
 
 ---
 
