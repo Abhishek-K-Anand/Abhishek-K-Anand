@@ -42,12 +42,13 @@
 </p>
 
 ---
+### 🚀 Most Recent Projects
 
- - 💬 **Social Media Sentiment Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_01)
+ - 📊 **Social Media Sentiment Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_01)
 
-- 🧾 **Customer Support Data Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_02)
+- 🗂️ **Customer Support Data Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_02)
 
-- 🚧 **Road Accident Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_03)
+- 🚦 **Road Accident Analysis** — [🔗 GitHub Link](https://github.com/Abhishek-K-Anand/FUTURE_DS_03)
 
 
 ## 📂 Projects
