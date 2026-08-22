@@ -18,7 +18,7 @@
 🕸️ Experienced in **web scraping** using BeautifulSoup and Selenium  
 🤖 Built several **ML models** for classification and regression problems  
 
-🎓 PG Program in **Data Science** – Data Trained Academy  
+ 
 💼 Internship at **Flip Robo Technology** (Python, SQL, ML)  
 🏋️‍♂️ Athlete mindset: always disciplined, focused & consistent — not just eat, code, sleep!
 
