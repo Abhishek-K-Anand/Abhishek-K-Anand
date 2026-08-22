@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Anand</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | 💻 Python, SQL, Machine Learning, Power BI, Excel | 🎓 DataTrained Graduate</h3>
-<h4 align="center">🧠 Ex-ML Intern @ Flip Robo | 🌟 Intern @ Future Interns | 📊 Ex-Business Analyst @ Dalaan7 Infinite Pvt. Ltd. | 🔍 Passionate About Data-Driven Insights</h4>
+ 📊 Ex-Business Analyst @ Dalaan7 Infinite Pvt. Ltd. | 🔍 Passionate About Data-Driven Insights</h4>
 
 
 <p align="center">
