@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Anand</h1>
- 📊 Ex-Business Analyst @ Dalaan7 Infinite Pvt. Ltd. | 🔍 Passionate About Data-Driven Insights</h4>
+
+<h4 align="center">☕ Java Developer | 💻 Backend Development | 🚀 Java, Spring Boot, REST APIs & SQL | 📊 Data & Analytics</h4>
+
 
 
 <p align="center">
